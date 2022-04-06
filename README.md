@@ -20,13 +20,13 @@ Term: Spring 2022
 **Contribution statement**: [default] 
 We subdivided into: 
 
-A1: Learning fair representations (LFR)
++ A1: Learning fair representations (LFR)
 	+
 	+
-A2: Maximizing accuracy under fairness constraints (C-SVM and C-LR)
++ A2: Maximizing accuracy under fairness constraints (C-SVM and C-LR)
 	+
 	+
-A3: Maximizing fairness under accuracy constraints (gamma and Fine-gamma)
++ A3: Maximizing fairness under accuracy constraints (gamma and Fine-gamma)
 	+
 	+
 
