@@ -8,12 +8,12 @@ Term: Spring 2022
 + Projec title: Lorem ipsum dolor sit amet
 + Team members
 
-	+ 1. Chen, Gexin 
-	+ 2. Liu, Jiachen 
-	+ 3. Love, Noah
-	+ 4. Sablani, Rhea 
-	+ 5. Wang, Xubo 
-	+ 6. Zhang, Yixuan
+	+ Chen, Gexin 
+	+ Liu, Jiachen 
+	+ Love, Noah
+	+ Sablani, Rhea 
+	+ Wang, Xubo 
+	+ Zhang, Yixuan
 
 + Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 	
