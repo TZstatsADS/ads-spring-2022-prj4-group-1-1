@@ -27,7 +27,7 @@ We subdivided into:
 	+
 	+
 + A3: Maximizing fairness under accuracy constraints (gamma and Fine-gamma)
-	+
+	+ Xubo Wang
 	+
 
 
