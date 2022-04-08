@@ -25,7 +25,7 @@ We subdivided into:
 	+
 + A2: Maximizing accuracy under fairness constraints (C-SVM and C-LR)
 	+ Noah Love
-	+
+	+ Rhea Sablani
 + A3: Maximizing fairness under accuracy constraints (gamma and Fine-gamma)
 	+ Xubo Wang
 	+ Jiachen Liu
