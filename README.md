@@ -22,7 +22,7 @@ We subdivided into:
 
 + A1: Learning fair representations (LFR)
 	+ Gexin Chen
-	+
+	+ Yixuan Zhang
 + A2: Maximizing accuracy under fairness constraints (C-SVM and C-LR)
 	+ Noah Love
 	+ Rhea Sablani
