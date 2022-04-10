@@ -4,8 +4,8 @@
 
 Term: Spring 2022
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
++ Team 1
++ Projec title: Fair representations and maximizations under constraints
 + Team members
 
 	+ Chen, Gexin 
@@ -18,7 +18,7 @@ Term: Spring 2022
 + Project summary: This project demonstrates 3 specific algorithms from the _Machine Learning Fairness_ literature on the COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) dataset from propublica. We implement, evaluate and compare the following algorithms:  Learning fair representations (LFR), Maximizing accuracy under fairness constraints (C-SVM and C-LR), Maximizing fairness under accuracy constraints (gamma and Fine-gamma). 
 	
 	
-**Contribution statement**: [default] 
+**Contribution statement**:
 We subdivided into: 
 
 + A1: Learning fair representations (LFR)
