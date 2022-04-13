@@ -13,3 +13,4 @@ A3: Maximizing fairness under accuracy constraints (gamma and Fine-gamma)
 
 
 There is also a file titled unused for code that did not go into final algorithms.
+There is also a subfolder named Presentaion & Report for presentation files.
