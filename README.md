@@ -16,6 +16,8 @@ Term: Spring 2022
 	+ Zhang, Yixuan
 
 + Project summary: This project demonstrates 3 specific algorithms from the _Machine Learning Fairness_ literature on the COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) dataset from propublica. We implement, evaluate and compare the following algorithms:  Learning fair representations (LFR), Maximizing accuracy under fairness constraints (C-SVM and C-LR), Maximizing fairness under accuracy constraints (gamma and Fine-gamma). 
+
+The original Propublica analysis (Jupyter Notebook) and full story can be found in this Github repo and it is quite informative into the problem that these algorithms hope to solve : https://github.com/propublica/compas-analysis
 	
 	
 **Contribution statement**:
